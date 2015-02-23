@@ -7,6 +7,8 @@ and [etcd](https://github.com/coreos/etcd).
 This container is designed to be run inside a coreos cluster, but
 you can run it anywhere that etcd is running.
 
+And the main idea is to push data to [Librato](https://www.librato.com/) via the http plugin
+
 ## Usage
 
 ```bash
